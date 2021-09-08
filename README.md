@@ -17,7 +17,9 @@
 - Ask me about anything related to SERN stack and related technologies  
   
 
-- Fun fact: I have been playing guitar and writing/recording music since 2004  
+- Fun fact: I have been playing guitar and writing/recording music since 2004
+
+<iframe src="https://open.spotify.com/embed/track/5DooTEtppQhB3ZRo7paHDh" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
   
 
 <br/>  
