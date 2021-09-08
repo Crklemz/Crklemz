@@ -60,11 +60,6 @@
   
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=crklemz&cover_image=true&theme=default" /></div>  
-
-<br/>  
-
-
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=crklemz&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
