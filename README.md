@@ -5,7 +5,7 @@
 </div>  
   
 
-### <div align="center">I'm Christopher, a full-time full-stack software engineer</div>  
+### <div align="center">I'm Christopher, a full-stack software engineer</div>  
   
 
 - I’m currently working on BabyBarter (https://github.com/Crklemz/BabyBarter)  
