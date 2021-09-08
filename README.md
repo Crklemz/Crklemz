@@ -11,7 +11,7 @@
 - I’m currently working on BabyBarter (https://github.com/Crklemz/BabyBarter)  
   
 
-- I’m currently learning C#  
+- I’m currently learning more about C#  
   
 
 - Ask me about anything related to SERN stack and related technologies  
