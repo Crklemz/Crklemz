@@ -8,10 +8,10 @@
 ### <div align="center">I'm Christopher, a full-stack software engineer</div>  
   
 
-- I’m currently working on BabyBarter (https://github.com/Crklemz/BabyBarter)  
+- My first solo full stack app called BabyBarter --> https://afternoon-plateau-81735.herokuapp.com/#/home
   
 
-- I’m currently learning more about C#  
+- I’m currently learning more about C#/.NET and AWS
   
 
 - Ask me about anything related to SERN stack and related technologies  
