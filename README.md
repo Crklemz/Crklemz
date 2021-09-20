@@ -8,7 +8,7 @@
 ### <div align="center">I'm Christopher, a full-stack software engineer</div>  
   
 
-- My first solo full stack app called BabyBarter --> https://afternoon-plateau-81735.herokuapp.com/#/home
+- Check out my first solo full stack app called BabyBarter --> https://afternoon-plateau-81735.herokuapp.com/#/home and my first full group app (order management application for PrimX concrete --> https://radiant-wildwood-15273.herokuapp.com/#/user
   
 
 - I’m currently learning more about C#/.NET and AWS
