@@ -46,9 +46,7 @@ Outside of work, I’m all about:
 - **Self-Sufficiency:** From scratch cooking and DIY projects are my favorite ways to stay creative and grounded.
 
 ---
-
 <br/>  
-
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/crklemz" target="_blank">
