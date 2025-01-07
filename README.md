@@ -47,6 +47,7 @@ Outside of work, I’m all about:
 
 ---
 <br/>  
+
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/crklemz" target="_blank">
