@@ -5,8 +5,6 @@
 **Full-Stack Software Engineer** | React, Django, WordPress | DevOps & Automation Curious  
 *Minneapolis-based engineer with experience delivering scalable apps using modern stacks and practical tooling.*
 
----
-
 ## Tech Stack
 
 - **Frontend:** React (and React Native), Tailwind CSS, Material UI, JavaScript/TypeScript, HTML, CSS/SCSS
@@ -15,16 +13,12 @@
 - **CMS & Tools:** WordPress, Linux, Git, Cloud Monitoring, Debugging
 - **Bonus Skills:** Responsive Design, SEO, Google Analytics, A/B Testing
 
----
-
 ## What I Work On
 
 - Building scalable full-stack apps with clean UIs and maintainable backends
 - Modernizing legacy systems and CMS platforms
 - Automating dev workflows using CI/CD and containerization
 - Exploring AI tools and workflow automation (n8n, OpenAI)
-
----
 
 ## Recent Work Highlights
 
@@ -33,8 +27,6 @@
 - Migrated infrastructure and CDN deployments using AWS S3, Lambda, and GitHub Actions
 - Designed responsive UIs for legal and finance content platforms
 
----
-
 ## Current Goals
 
 - Master advanced Django features and DRF
@@ -42,14 +34,10 @@
 - Build real-world tools with AI & automation
 - Grow as a contributor in open source and cross-functional teams
 
----
-
 ## Featured Projects
 
 - **Trades For Trade:** React Native + Django app for bartering trade services
 - **Content Automation Platform:** AI-powered, CMS-integrated publishing tool with n8n, Django, and WordPress REST API
-
----
 
 ## Fun Stuff About Me
 
@@ -57,8 +45,6 @@
 - Guitarist for 15+ years
 - Formula 1 fanatic and dad of two amazing kids
 - Into lakes, self-sufficiency, and growing food from scratch
-
----
 
 ## Let's Connect
 
